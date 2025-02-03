@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
+    "age": 5,
+    "isActive": true,
+    "birthdate": "2018-03-01",
+    "imageUrl": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+    "type": "Grass",
+    "hobbies": ["Gardening", "Sunbathing", "Photosynthesis"],
+    "stats": {
+      "id": 101,
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "speed": 45,
+      "specialAttack": 65,
+      "specialDefense": 65,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/bulbasaur.png"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Charmander",
+    "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+    "age": 4,
+    "isActive": true,
+    "birthdate": "2019-07-15",
+    "imageUrl": "https://img.pokemondb.net/artwork/charmander.jpg",
+    "type": "Fire",
+    "hobbies": ["Fire-breathing", "Exploring", "Climbing"],
+    "stats": {
+      "id": 102,
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "speed": 65,
+      "specialAttack": 60,
+      "specialDefense": 50,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/charmander.png"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Squirtle",
+    "description": "After birth, its back swells and hardens into a shell. It sprays foam from its mouth with great accuracy.",
+    "age": 6,
+    "isActive": false,
+    "birthdate": "2017-11-22",
+    "imageUrl": "https://img.pokemondb.net/artwork/squirtle.jpg",
+    "type": "Water",
+    "hobbies": ["Swimming", "Water fights", "Shell polishing"],
+    "stats": {
+      "id": 103,
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "speed": 43,
+      "specialAttack": 50,
+      "specialDefense": 64,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/squirtle.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Pikachu",
+    "description": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
+    "age": 3,
+    "isActive": true,
+    "birthdate": "2020-05-30",
+    "imageUrl": "https://img.pokemondb.net/artwork/pikachu.jpg",
+    "type": "Electric",
+    "hobbies": ["Chewing wires", "Running", "Thunderbolts"],
+    "stats": {
+      "id": 104,
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "speed": 90,
+      "specialAttack": 50,
+      "specialDefense": 50,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/pikachu.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Jigglypuff",
+    "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
+    "age": 7,
+    "isActive": false,
+    "birthdate": "2016-09-10",
+    "imageUrl": "https://img.pokemondb.net/artwork/jigglypuff.jpg",
+    "type": "Fairy",
+    "hobbies": ["Singing", "Dancing", "Napping"],
+    "stats": {
+      "id": 105,
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "speed": 20,
+      "specialAttack": 45,
+      "specialDefense": 25,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/jigglypuff.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Gengar",
+    "description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
+    "age": 8,
+    "isActive": true,
+    "birthdate": "2015-12-25",
+    "imageUrl": "https://img.pokemondb.net/artwork/gengar.jpg",
+    "type": "Ghost",
+    "hobbies": ["Pranks", "Shadow play", "Haunting"],
+    "stats": {
+      "id": 106,
+      "hp": 60,
+      "attack": 65,
+      "defense": 60,
+      "speed": 110,
+      "specialAttack": 130,
+      "specialDefense": 75,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/gengar.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Eevee",
+    "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
+    "age": 2,
+    "isActive": true,
+    "birthdate": "2021-02-14",
+    "imageUrl": "https://img.pokemondb.net/artwork/eevee.jpg",
+    "type": "Normal",
+    "hobbies": ["Evolution", "Playing", "Exploring"],
+    "stats": {
+      "id": 107,
+      "hp": 55,
+      "attack": 55,
+      "defense": 50,
+      "speed": 55,
+      "specialAttack": 45,
+      "specialDefense": 65,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/eevee.png"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mewtwo",
+    "description": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
+    "age": 10,
+    "isActive": false,
+    "birthdate": "2013-04-20",
+    "imageUrl": "https://img.pokemondb.net/artwork/mewtwo.jpg",
+    "type": "Psychic",
+    "hobbies": ["Meditation", "Training", "Experiments"],
+    "stats": {
+      "id": 108,
+      "hp": 106,
+      "attack": 110,
+      "defense": 90,
+      "speed": 130,
+      "specialAttack": 154,
+      "specialDefense": 90,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/mewtwo.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Snorlax",
+    "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
+    "age": 9,
+    "isActive": true,
+    "birthdate": "2014-08-08",
+    "imageUrl": "https://img.pokemondb.net/artwork/snorlax.jpg",
+    "type": "Normal",
+    "hobbies": ["Eating", "Sleeping", "Relaxing"],
+    "stats": {
+      "id": 109,
+      "hp": 160,
+      "attack": 110,
+      "defense": 65,
+      "speed": 30,
+      "specialAttack": 65,
+      "specialDefense": 110,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/snorlax.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Dragonite",
+    "description": "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.",
+    "age": 12,
+    "isActive": true,
+    "birthdate": "2011-10-31",
+    "imageUrl": "https://img.pokemondb.net/artwork/dragonite.jpg",
+    "type": "Dragon",
+    "hobbies": ["Flying", "Rescuing", "Training"],
+    "stats": {
+      "id": 110,
+      "hp": 91,
+      "attack": 134,
+      "defense": 95,
+      "speed": 80,
+      "specialAttack": 100,
+      "specialDefense": 100,
+      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/dragonite.png"
+    }
+  }
+]
