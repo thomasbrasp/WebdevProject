@@ -17,7 +17,7 @@
       "speed": 45,
       "specialAttack": 65,
       "specialDefense": 65,
-      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/bulbasaur.png"
+      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Bulbasaur%20DALLE.webp"
     }
   },
   {
@@ -38,7 +38,7 @@
       "speed": 65,
       "specialAttack": 60,
       "specialDefense": 50,
-      "imageUrl": "https://img.pokemondb.net/sprites/red-blue/normal/charmander.png"
+      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Charmander%20DALLE.webp"
     }
   },
   {
