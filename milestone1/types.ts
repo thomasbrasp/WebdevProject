@@ -1,26 +1,33 @@
-export interface RootObject {
-    id: number;
-    name: string;
-    description: string;
-    image: string;
-    requirements: Requirement;
-    location: Location;
-    card: Card;
-    drops: string[];
+export interface Monsters {
+    id:           number;
+    name:         string;
+    description:  string;
+    image:        string;
+    requirements: Requirements;
+    location:     Location;
+    card:         Card;
+    drops:        string[];
+    birthdate:    Date;
+    hasQuestItem: boolean;
 }
 
-interface Requirement {
-    accuracy: number;
-    defence: number;
-}
-
-interface Location {
-    world: string;
-    area: string;
-}
-
-interface Card {
-    name: string;
-    effect: string;
+export interface Card {
+    name:         string;
+    effect:       string;
     effectValues: number;
+}
+
+export interface Location {
+    world: World;
+    area:  string;
+}
+
+export enum World {
+    BlunderHills = "Blunder Hills",
+    YumYumDesert = "Yum Yum Desert",
+}
+
+export interface Requirements {
+    accuracy: number | string;
+    defence:  number | string;
 }
