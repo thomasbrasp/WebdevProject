@@ -2,6 +2,7 @@
   {
     "id": 1,
     "name": "Green Mushroom",
+    "description": "A tiny green mushroom that bounces around aimlessly. It's weak but abundant in the Blunder Hills.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/greenmushroom.webp",
     "stats": {
       "defence": 1.5,
@@ -22,6 +23,7 @@
   {
     "id": 2,
     "name": "Red Mushroom",
+    "description": "A fiery red mushroom that packs hefty defense for its size. Known to be more aggressive than its green counterpart.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/redmushroom.webp",
     "stats": {
       "defence": 37.5,
@@ -42,6 +44,7 @@
   {
     "id": 3,
     "name": "Frog",
+    "description": "A small amphibian leaping across puddles. It doesn't look threatening, but it can put up a fight.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/frog.webp",
     "stats": {
       "defence": 1.5,
@@ -62,6 +65,7 @@
   {
     "id": 4,
     "name": "Bored Bean",
+    "description": "A lazy bean that doesn't even seem motivated to attack. Don't let your guard down, though.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/boredbean.webp",
     "stats": {
       "defence": 3,
@@ -82,6 +86,7 @@
   {
     "id": 5,
     "name": "Slime",
+    "description": "A gooey creature that slides across the land. Its resilience makes it a slight challenge.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/slime.webp",
     "stats": {
       "defence": 6,
@@ -102,6 +107,7 @@
   {
     "id": 6,
     "name": "Baby Boa",
+    "description": "A small snake slithering through Winding Willows. Despite its size, it bites hard.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/babybao.webp",
     "stats": {
       "defence": 7.5,
@@ -122,6 +128,7 @@
   {
     "id": 7,
     "name": "Carrotman",
+    "description": "A sentient carrot with arms and legs. It watches its patch fiercely during harvest season.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/carrotman.webp",
     "stats": {
       "defence": 9,
@@ -142,6 +149,7 @@
   {
     "id": 8,
     "name": "Glublin",
+    "description": "A clunky goblin brimming with energy. Known to patrol the outskirts of the forest.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/glublin.webp",
     "stats": {
       "defence": 10.5,
@@ -162,6 +170,7 @@
   {
     "id": 9,
     "name": "Wode Board",
+    "description": "A furious wooden boar charging through the forest. It's both strong and durable.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/wodeboard.webp",
     "stats": {
       "defence": 37.5,
@@ -182,6 +191,7 @@
   {
     "id": 10,
     "name": "Gigafrog",
+    "description": "A massive frog that towers over others. Its size makes it a formidable opponent.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/gigafrog.webp",
     "stats": {
       "defence": 90,
@@ -202,6 +212,7 @@
   {
     "id": 11,
     "name": "Poop",
+    "description": "A living pile of filth that thrives in the sewers. It’s as disgusting as it sounds.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/poop.webp",
     "stats": {
       "defence": 150,
@@ -222,6 +233,7 @@
   {
     "id": 12,
     "name": "Rat",
+    "description": "A filthy rodent that skitters through the sewers. Its sharp teeth make it dangerous to fight.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/rat.webp",
     "stats": {
       "defence": 270,
@@ -242,6 +254,7 @@
   {
     "id": 13,
     "name": "Walking Stick",
+    "description": "A peculiar creature that resembles a stick. It blends in perfectly with its environment.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/walkingstick.webp",
     "stats": {
       "defence": 225,
@@ -262,6 +275,7 @@
   {
     "id": 14,
     "name": "Nutto",
+    "description": "A hostile, nut-like creature with a hard shell. Known to drop valuable loot.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/nutto.webp",
     "stats": {
       "defence": 300,
@@ -282,6 +296,7 @@
   {
     "id": 15,
     "name": "Crystal Carrot",
+    "description": "A rare and mystical carrot that can be found in various locations. Its stats vary greatly.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcarrot.webp",
     "stats": {
       "defence": "Variable",
@@ -302,6 +317,7 @@
   {
     "id": 16,
     "name": "Wood Mushroom",
+    "description": "A large mushroom with a tough, wooden cap. It prefers to grow in shaded areas.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/woodmushroom.webp",
     "stats": {
       "defence": 750,
@@ -322,6 +338,7 @@
   {
     "id": 17,
     "name": "Sandy Pot",
+    "description": "A mischievous pot made of sand. Though fragile, it hides great power within.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandypot.webp",
     "stats": {
       "defence": 30,
@@ -342,6 +359,7 @@
   {
     "id": 18,
     "name": "Mimic",
+    "description": "A deceptive creature camouflaged as a treasure chest. It attacks those who come near.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mimic.webp",
     "stats": {
       "defence": 37.5,
@@ -362,6 +380,7 @@
   {
     "id": 19,
     "name": "Crabcake",
+    "description": "A crab-like monster with a tough shell. Its claws pack a powerful punch.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crabcake.webp",
     "stats": {
       "defence": 45,
@@ -382,6 +401,7 @@
   {
     "id": 20,
     "name": "Mafioso",
+    "description": "A strong and stylish monster that rules the desert canyons. It fights with finesse.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mafioso.webp",
     "stats": {
       "defence": 67.5,
@@ -402,6 +422,7 @@
   {
     "id": 21,
     "name": "Sand Castle",
+    "description": "A towering structure made of sand, enchanted to guard the desert. Its sandy walls are surprisingly durable.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandcastle.webp",
     "stats": {
       "defence": 90,
@@ -422,6 +443,7 @@
   {
     "id": 22,
     "name": "Pincermin",
+    "description": "A crustacean-like creature with sharp pincers that can cut through the toughest materials. It's quick to attack at the slightest provocation.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/pincerman.webp",
     "stats": {
       "defence": 120,
@@ -442,6 +464,7 @@
   {
     "id": 23,
     "name": "Mashed Potato",
+    "description": "A gooey and sticky creature that emerged from enchanted mashed potatoes. Its spongy texture hides its tenacity.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mashedpotato.webp",
     "stats": {
       "defence": 150,
@@ -462,6 +485,7 @@
   {
     "id": 24,
     "name": "Tyson",
+    "description": "A fearless beast with unmatched strength. Known for its relentless attacks and dominance in the desert arena.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/tyson.webp",
     "stats": {
       "defence": 187.5,
@@ -482,6 +506,7 @@
   {
     "id": 25,
     "name": "Moonmoon",
+    "description": "A mysterious wolf-like creature that harnesses the power of the moon, granting it enhanced reflexes and strength.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/moonmoon.webp",
     "stats": {
       "defence": 225,
@@ -502,6 +527,7 @@
   {
     "id": 26,
     "name": "Sand Giant",
+    "description": "A colossal being formed from desert sands, it towers over the landscape as an unyielding guardian of the dunes.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandgiant.webp",
     "stats": {
       "defence": 255,
@@ -522,6 +548,7 @@
   {
     "id": 27,
     "name": "Snelbie",
+    "description": "A cheery yet elusive desert dweller, its smile hides its speed and fierce protective nature toward its home.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/snelbie.webp",
     "stats": {
       "defence": 300,
@@ -542,6 +569,7 @@
   {
     "id": 28,
     "name": "Dig Doug",
+    "description": "An excavator of the desert’s secrets, this creature digs tirelessly, unearthing both treasures and trouble.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/digdoug.webp",
     "stats": {
       "defence": 342,
@@ -562,6 +590,7 @@
   {
     "id": 29,
     "name": "Crystal Crabal",
+    "description": "An enigmatic creature encapsulated in crystal. Its shimmering form is both beautiful and dangerous.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcrabal.webp",
     "stats": {
       "defence": "Variable",

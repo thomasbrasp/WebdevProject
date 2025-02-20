@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "name": "Green Mushroom",
+    "description": "A tiny green mushroom that bounces around aimlessly. It's weak but abundant in the Blunder Hills.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/greenmushroom.webp",
+    "stats": {
+      "defence": 1.5,
+      "defence0": 0.22,
+      "exp": 2
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Spore Meadows"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Green Mushroom Card",
+      "effect": "+ Base HP",
+      "effectValues": 12
+    }
+  },
+  {
+    "id": 2,
+    "name": "Red Mushroom",
+    "description": "A fiery red mushroom that packs hefty defense for its size. Known to be more aggressive than its green counterpart.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/redmushroom.webp",
+    "stats": {
+      "defence": 37.5,
+      "defence0": 21.6,
+      "exp": 47
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Birch Enclave"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Red Mushroom Card",
+      "effect": "+ Base LUK",
+      "effectValues": 3
+    }
+  },
+  {
+    "id": 3,
+    "name": "Frog",
+    "description": "A small amphibian leaping across puddles. It doesn't look threatening, but it can put up a fight.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/frog.webp",
+    "stats": {
+      "defence": 1.5,
+      "defence0": 0.22,
+      "exp": 10
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Froggy Fields, Grandfrog's Backyard"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Frog Card",
+      "effect": "+ Base MP",
+      "effectValues": 10
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bored Bean",
+    "description": "A lazy bean that doesn't even seem motivated to attack. Don't let your guard down, though.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/boredbean.webp",
+    "stats": {
+      "defence": 3,
+      "defence0": 0.22,
+      "exp": 18
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Valley Of The Beans"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Bored Bean Card",
+      "effect": "+ Base Damage",
+      "effectValues": 7
+    }
+  },
+  {
+    "id": 5,
+    "name": "Slime",
+    "description": "A gooey creature that slides across the land. Its resilience makes it a slight challenge.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/slime.webp",
+    "stats": {
+      "defence": 6,
+      "defence0": 0.5,
+      "exp": 26
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Jungle Perimeter"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Slime Card",
+      "effect": "+ Base WIS",
+      "effectValues": 2
+    }
+  },
+  {
+    "id": 6,
+    "name": "Baby Boa",
+    "description": "A small snake slithering through Winding Willows. Despite its size, it bites hard.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/babybao.webp",
+    "stats": {
+      "defence": 7.5,
+      "defence0": 7.4,
+      "exp": 36
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Winding Willows"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Baby Boa Card",
+      "effect": "+ Move Spd",
+      "effectValues": 1
+    }
+  },
+  {
+    "id": 7,
+    "name": "Carrotman",
+    "description": "A sentient carrot with arms and legs. It watches its patch fiercely during harvest season.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/carrotman.webp",
+    "stats": {
+      "defence": 9,
+      "defence0": 4.59,
+      "exp": 46
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Vegetable Patch"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Carrotman Card",
+      "effect": "+ Base AGI",
+      "effectValues": 2
+    }
+  },
+  {
+    "id": 8,
+    "name": "Glublin",
+    "description": "A clunky goblin brimming with energy. Known to patrol the outskirts of the forest.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/glublin.webp",
+    "stats": {
+      "defence": 10.5,
+      "defence0": 7.4,
+      "exp": 60
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Forest Outskirts"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Glublin Card",
+      "effect": "+% Total HP",
+      "effectValues": 2
+    }
+  },
+  {
+    "id": 9,
+    "name": "Wode Board",
+    "description": "A furious wooden boar charging through the forest. It's both strong and durable.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/wodeboard.webp",
+    "stats": {
+      "defence": 37.5,
+      "defence0": 8.9,
+      "exp": 75
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Encroaching Forest Villas"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Wode Board Card",
+      "effect": "+ Base STR",
+      "effectValues": 2
+    }
+  },
+  {
+    "id": 10,
+    "name": "Gigafrog",
+    "description": "A massive frog that towers over others. Its size makes it a formidable opponent.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/gigafrog.webp",
+    "stats": {
+      "defence": 90,
+      "defence0": 35.69,
+      "exp": 95
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Tucked Away"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Gigafrog Card",
+      "effect": "+% Card Drop Chance",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 11,
+    "name": "Poop",
+    "description": "A living pile of filth that thrives in the sewers. It’s as disgusting as it sounds.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/poop.webp",
+    "stats": {
+      "defence": 150,
+      "defence0": 152.99,
+      "exp": 220
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Poopy Sewers"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Poop Card",
+      "effect": "+% Crystal Mob Spawn Chance",
+      "effectValues": 10
+    }
+  },
+  {
+    "id": 12,
+    "name": "Rat",
+    "description": "A filthy rodent that skitters through the sewers. Its sharp teeth make it dangerous to fight.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/rat.webp",
+    "stats": {
+      "defence": 270,
+      "defence0": 238.5,
+      "exp": 330
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Rats Nest"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Rat Card",
+      "effect": "+% Critical Chance",
+      "effectValues": 1
+    }
+  },
+  {
+    "id": 13,
+    "name": "Walking Stick",
+    "description": "A peculiar creature that resembles a stick. It blends in perfectly with its environment.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/walkingstick.webp",
+    "stats": {
+      "defence": 225,
+      "defence0": 12.82,
+      "exp": 120
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "The Base Of The Bark"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Walking Stick Card",
+      "effect": "+ Base WIS",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 14,
+    "name": "Nutto",
+    "description": "A hostile, nut-like creature with a hard shell. Known to drop valuable loot.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/nutto.webp",
+    "stats": {
+      "defence": 300,
+      "defence0": 30.9,
+      "exp": 190
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Hollowed Trunk"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Nutto Card",
+      "effect": "+% Money from Monsters",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 15,
+    "name": "Crystal Carrot",
+    "description": "A rare and mystical carrot that can be found in various locations. Its stats vary greatly.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcarrot.webp",
+    "stats": {
+      "defence": "Variable",
+      "defence0": "Variable",
+      "exp": "Variable"
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Any Blunder Hills Area"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Crystal Carrot Card",
+      "effect": "+% Total Drop Rate",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 16,
+    "name": "Wood Mushroom",
+    "description": "A large mushroom with a tough, wooden cap. It prefers to grow in shaded areas.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/woodmushroom.webp",
+    "stats": {
+      "defence": 750,
+      "defence0": 66.8,
+      "exp": 300
+    },
+    "region": {
+      "world": "Blunder Hills",
+      "area": "Where the Branches End"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Wood Mushroom Card",
+      "effect": "+% Total Accuracy",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 17,
+    "name": "Sandy Pot",
+    "description": "A mischievous pot made of sand. Though fragile, it hides great power within.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandypot.webp",
+    "stats": {
+      "defence": 30,
+      "defence0": 21.54,
+      "exp": 150
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Jar Bridge"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Sandy Pot Card",
+      "effect": "+% EXP Conversion from Talent",
+      "effectValues": 12
+    }
+  },
+  {
+    "id": 18,
+    "name": "Mimic",
+    "description": "A deceptive creature camouflaged as a treasure chest. It attacks those who come near.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mimic.webp",
+    "stats": {
+      "defence": 37.5,
+      "defence0": 35.69,
+      "exp": 180
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "The Mimic Hole"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Mimic Card",
+      "effect": "+% Total Drop Rate",
+      "effectValues": 2
+    }
+  },
+  {
+    "id": 19,
+    "name": "Crabcake",
+    "description": "A crab-like monster with a tough shell. Its claws pack a powerful punch.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crabcake.webp",
+    "stats": {
+      "defence": 45,
+      "defence0": 50.87,
+      "exp": 210
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Dessert Dunes"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Crabcake Card",
+      "effect": "+% To not consume Food",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 20,
+    "name": "Mafioso",
+    "description": "A strong and stylish monster that rules the desert canyons. It fights with finesse.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mafioso.webp",
+    "stats": {
+      "defence": 67.5,
+      "defence0": 72.24,
+      "exp": 240
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "The Grandioso Canyon"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Mafioso Card",
+      "effect": "+ Base AGI",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 21,
+    "name": "Sand Castle",
+    "description": "A towering structure made of sand, enchanted to guard the desert. Its sandy walls are surprisingly durable.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandcastle.webp",
+    "stats": {
+      "defence": 90,
+      "defence0": 88.89,
+      "exp": 265
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Shifty Sandbox"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Sand Castle Card",
+      "effect": "+% Total Accuracy",
+      "effectValues": 4
+    }
+  },
+  {
+    "id": 22,
+    "name": "Pincermin",
+    "description": "A crustacean-like creature with sharp pincers that can cut through the toughest materials. It's quick to attack at the slightest provocation.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/pincerman.webp",
+    "stats": {
+      "defence": 120,
+      "defence0": 108.27,
+      "exp": 290
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Pincer Plateau"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Pincermin Card",
+      "effect": "+ Weapon Power",
+      "effectValues": 1
+    }
+  },
+  {
+    "id": 23,
+    "name": "Mashed Potato",
+    "description": "A gooey and sticky creature that emerged from enchanted mashed potatoes. Its spongy texture hides its tenacity.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mashedpotato.webp",
+    "stats": {
+      "defence": 150,
+      "defence0": 123.37,
+      "exp": 310
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Slamabam Straightaway"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Mashed Potato Card",
+      "effect": "+% Critical Damage",
+      "effectValues": 3
+    }
+  },
+  {
+    "id": 24,
+    "name": "Tyson",
+    "description": "A fearless beast with unmatched strength. Known for its relentless attacks and dominance in the desert arena.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/tyson.webp",
+    "stats": {
+      "defence": 187.5,
+      "defence0": 152.99,
+      "exp": 350
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "The Ring"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Tyson Card",
+      "effect": "+ Base STR",
+      "effectValues": 5
+    }
+  },
+  {
+    "id": 25,
+    "name": "Moonmoon",
+    "description": "A mysterious wolf-like creature that harnesses the power of the moon, granting it enhanced reflexes and strength.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/moonmoon.webp",
+    "stats": {
+      "defence": 225,
+      "defence0": 177.1,
+      "exp": 380
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Up Up Down Down"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Moonmoon Card",
+      "effect": "+% Monster EXP While Active",
+      "effectValues": 8
+    }
+  },
+  {
+    "id": 26,
+    "name": "Sand Giant",
+    "description": "A colossal being formed from desert sands, it towers over the landscape as an unyielding guardian of the dunes.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandgiant.webp",
+    "stats": {
+      "defence": 255,
+      "defence0": 207.65,
+      "exp": 410
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Sands of Time"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Sand Giant Card",
+      "effect": "+% Minimum Damage",
+      "effectValues": 2
+    }
+  },
+  {
+    "id": 27,
+    "name": "Snelbie",
+    "description": "A cheery yet elusive desert dweller, its smile hides its speed and fierce protective nature toward its home.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/snelbie.webp",
+    "stats": {
+      "defence": 300,
+      "defence0": 244.76,
+      "exp": 460
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Djonnuttown"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Snelbie Card",
+      "effect": "+% Card Drop Chance",
+      "effectValues": 8
+    }
+  },
+  {
+    "id": 28,
+    "name": "Dig Doug",
+    "description": "An excavator of the desert’s secrets, this creature digs tirelessly, unearthing both treasures and trouble.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/digdoug.webp",
+    "stats": {
+      "defence": 342,
+      "defence0": 0.5,
+      "exp": 420
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Sandstone Colosseum"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Dig Doug Card",
+      "effect": "+ Base LUK",
+      "effectValues": 6
+    }
+  },
+  {
+    "id": 29,
+    "name": "Crystal Crabal",
+    "description": "An enigmatic creature encapsulated in crystal. Its shimmering form is both beautiful and dangerous.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcrabal.webp",
+    "stats": {
+      "defence": "Variable",
+      "defence0": "Variable",
+      "exp": "Variable"
+    },
+    "region": {
+      "world": "Yum Yum Desert",
+      "area": "Any Yum Yum Desert Area"
+    },
+    "hascard": true,
+    "card": {
+      "name": "Crystal Crabal Card",
+      "effect": "+% EXP from monsters",
+      "effectValues": 2
+    }
+  }
+]
+
+
+
