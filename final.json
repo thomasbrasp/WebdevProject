@@ -322,7 +322,7 @@
   {
     "id": 17,
     "name": "Sandy Pot",
-    "image": "Sandy Pot Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandypot.webp",
     "stats": {
       "defence": 30,
       "defence0": 21.54,
@@ -342,7 +342,7 @@
   {
     "id": 18,
     "name": "Mimic",
-    "image": "Mimic Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mimic.webp",
     "stats": {
       "defence": 37.5,
       "defence0": 35.69,
@@ -362,7 +362,7 @@
   {
     "id": 19,
     "name": "Crabcake",
-    "image": "Crabcake Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crabcake.webp",
     "stats": {
       "defence": 45,
       "defence0": 50.87,
@@ -382,7 +382,7 @@
   {
     "id": 20,
     "name": "Mafioso",
-    "image": "Mafioso Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mafioso.webp",
     "stats": {
       "defence": 67.5,
       "defence0": 72.24,
@@ -402,7 +402,7 @@
   {
     "id": 21,
     "name": "Sand Castle",
-    "image": "Sand Castle Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandcastle.webp",
     "stats": {
       "defence": 90,
       "defence0": 88.89,
@@ -422,7 +422,7 @@
   {
     "id": 22,
     "name": "Pincermin",
-    "image": "Pincermin Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/pincerman.webp",
     "stats": {
       "defence": 120,
       "defence0": 108.27,
@@ -442,7 +442,7 @@
   {
     "id": 23,
     "name": "Mashed Potato",
-    "image": "Mashed Potato Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mashedpotato.webp",
     "stats": {
       "defence": 150,
       "defence0": 123.37,
@@ -462,7 +462,7 @@
   {
     "id": 24,
     "name": "Tyson",
-    "image": "Tyson Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/tyson.webp",
     "stats": {
       "defence": 187.5,
       "defence0": 152.99,
@@ -482,7 +482,7 @@
   {
     "id": 25,
     "name": "Moonmoon",
-    "image": "Moonmoon Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/moonmoon.webp",
     "stats": {
       "defence": 225,
       "defence0": 177.1,
@@ -502,7 +502,7 @@
   {
     "id": 26,
     "name": "Sand Giant",
-    "image": "Sand Giant Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sandgiant.webp",
     "stats": {
       "defence": 255,
       "defence0": 207.65,
@@ -522,7 +522,7 @@
   {
     "id": 27,
     "name": "Snelbie",
-    "image": "Snelbie Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/snelbie.webp",
     "stats": {
       "defence": 300,
       "defence0": 244.76,
@@ -542,7 +542,7 @@
   {
     "id": 28,
     "name": "Dig Doug",
-    "image": "Dig Doug Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/digdoug.webp",
     "stats": {
       "defence": 342,
       "defence0": 0.5,
@@ -562,7 +562,7 @@
   {
     "id": 29,
     "name": "Crystal Crabal",
-    "image": "Crystal Crabal Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcrabal.webp",
     "stats": {
       "defence": "Variable",
       "defence0": "Variable",
