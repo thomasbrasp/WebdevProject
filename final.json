@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Green Mushroom",
-    "image": "Green Mushroom Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/greenmushroom.webp",
     "stats": {
       "defence": 1.5,
       "defence0": 0.22,
@@ -22,7 +22,7 @@
   {
     "id": 2,
     "name": "Red Mushroom",
-    "image": "Red Mushroom Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/redmushroom.webp",
     "stats": {
       "defence": 37.5,
       "defence0": 21.6,
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "name": "Frog",
-    "image": "Frog Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/frog.webp",
     "stats": {
       "defence": 1.5,
       "defence0": 0.22,
@@ -62,7 +62,7 @@
   {
     "id": 4,
     "name": "Bored Bean",
-    "image": "Bored Bean Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/boredbean.webp",
     "stats": {
       "defence": 3,
       "defence0": 0.22,
@@ -82,7 +82,7 @@
   {
     "id": 5,
     "name": "Slime",
-    "image": "Slime Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/slime.webp",
     "stats": {
       "defence": 6,
       "defence0": 0.5,
@@ -102,7 +102,7 @@
   {
     "id": 6,
     "name": "Baby Boa",
-    "image": "Baby Boa Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/babybao.webp",
     "stats": {
       "defence": 7.5,
       "defence0": 7.4,
@@ -122,7 +122,7 @@
   {
     "id": 7,
     "name": "Carrotman",
-    "image": "Carrotman Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/carrotman.webp",
     "stats": {
       "defence": 9,
       "defence0": 4.59,
@@ -142,7 +142,7 @@
   {
     "id": 8,
     "name": "Glublin",
-    "image": "Glublin Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/glublin.webp",
     "stats": {
       "defence": 10.5,
       "defence0": 7.4,
@@ -162,7 +162,7 @@
   {
     "id": 9,
     "name": "Wode Board",
-    "image": "Wode Board Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/wodeboard.webp",
     "stats": {
       "defence": 37.5,
       "defence0": 8.9,
@@ -182,7 +182,7 @@
   {
     "id": 10,
     "name": "Gigafrog",
-    "image": "Gigafrog Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/gigafrog.webp",
     "stats": {
       "defence": 90,
       "defence0": 35.69,
@@ -202,7 +202,7 @@
   {
     "id": 11,
     "name": "Poop",
-    "image": "Poop Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/poop.webp",
     "stats": {
       "defence": 150,
       "defence0": 152.99,
@@ -222,7 +222,7 @@
   {
     "id": 12,
     "name": "Rat",
-    "image": "Rat Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/rat.webp",
     "stats": {
       "defence": 270,
       "defence0": 238.5,
@@ -242,7 +242,7 @@
   {
     "id": 13,
     "name": "Walking Stick",
-    "image": "Walking Stick Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/walkingstick.webp",
     "stats": {
       "defence": 225,
       "defence0": 12.82,
@@ -262,7 +262,7 @@
   {
     "id": 14,
     "name": "Nutto",
-    "image": "Nutto Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/nutto.webp",
     "stats": {
       "defence": 300,
       "defence0": 30.9,
@@ -282,7 +282,7 @@
   {
     "id": 15,
     "name": "Crystal Carrot",
-    "image": "Crystal Carrot Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcarrot.webp",
     "stats": {
       "defence": "Variable",
       "defence0": "Variable",
@@ -302,7 +302,7 @@
   {
     "id": 16,
     "name": "Wood Mushroom",
-    "image": "Wood Mushroom Walking.gif",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/woodmushroom.webp",
     "stats": {
       "defence": 750,
       "defence0": 66.8,
@@ -580,5 +580,6 @@
     }
   }
 ]
+
 
 
