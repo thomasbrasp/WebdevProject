@@ -5,19 +5,14 @@
     "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon.",
     "age": 5,
     "isActive": true,
-    "birthdate": "2018-03-01",
+    "catchDate": "2021-06-15",
     "imageUrl": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
     "type": "Grass",
     "hobbies": ["Gardening", "Sunbathing", "Photosynthesis"],
-    "stats": {
-      "id": 101,
-      "hp": 45,
-      "attack": 49,
-      "defense": 49,
-      "speed": 45,
-      "specialAttack": 65,
-      "specialDefense": 65,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Bulbasaur%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Viridian Forest",
+      "areaId": 201
     }
   },
   {
@@ -26,19 +21,14 @@
     "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
     "age": 4,
     "isActive": true,
-    "birthdate": "2019-07-15",
+    "catchDate": "2022-09-10",
     "imageUrl": "https://img.pokemondb.net/artwork/charmander.jpg",
     "type": "Fire",
     "hobbies": ["Fire-breathing", "Exploring", "Climbing"],
-    "stats": {
-      "id": 102,
-      "hp": 39,
-      "attack": 52,
-      "defense": 43,
-      "speed": 65,
-      "specialAttack": 60,
-      "specialDefense": 50,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Charmander%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Route 24",
+      "areaId": 202
     }
   },
   {
@@ -47,19 +37,14 @@
     "description": "After birth, its back swells and hardens into a shell. It sprays foam from its mouth with great accuracy.",
     "age": 6,
     "isActive": false,
-    "birthdate": "2017-11-22",
+    "catchDate": "2019-12-03",
     "imageUrl": "https://img.pokemondb.net/artwork/squirtle.jpg",
     "type": "Water",
     "hobbies": ["Swimming", "Water fights", "Shell polishing"],
-    "stats": {
-      "id": 103,
-      "hp": 44,
-      "attack": 48,
-      "defense": 65,
-      "speed": 43,
-      "specialAttack": 50,
-      "specialDefense": 64,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Squirtle%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Cerulean City",
+      "areaId": 203
     }
   },
   {
@@ -68,19 +53,14 @@
     "description": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
     "age": 3,
     "isActive": true,
-    "birthdate": "2020-05-30",
+    "catchDate": "2023-08-20",
     "imageUrl": "https://img.pokemondb.net/artwork/pikachu.jpg",
     "type": "Electric",
     "hobbies": ["Chewing wires", "Running", "Thunderbolts"],
-    "stats": {
-      "id": 104,
-      "hp": 35,
-      "attack": 55,
-      "defense": 40,
-      "speed": 90,
-      "specialAttack": 50,
-      "specialDefense": 50,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Pikachu%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Viridian Forest",
+      "areaId": 201
     }
   },
   {
@@ -89,19 +69,14 @@
     "description": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
     "age": 7,
     "isActive": false,
-    "birthdate": "2016-09-10",
+    "catchDate": "2017-11-18",
     "imageUrl": "https://img.pokemondb.net/artwork/jigglypuff.jpg",
     "type": "Fairy",
     "hobbies": ["Singing", "Dancing", "Napping"],
-    "stats": {
-      "id": 105,
-      "hp": 115,
-      "attack": 45,
-      "defense": 20,
-      "speed": 20,
-      "specialAttack": 45,
-      "specialDefense": 25,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Jigglypuff%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Route 3",
+      "areaId": 204
     }
   },
   {
@@ -110,19 +85,14 @@
     "description": "Under a full moon, this Pokémon likes to mimic the shadows of people and laugh at their fright.",
     "age": 8,
     "isActive": true,
-    "birthdate": "2015-12-25",
+    "catchDate": "2016-10-31",
     "imageUrl": "https://img.pokemondb.net/artwork/gengar.jpg",
     "type": "Ghost",
     "hobbies": ["Pranks", "Shadow play", "Haunting"],
-    "stats": {
-      "id": 106,
-      "hp": 60,
-      "attack": 65,
-      "defense": 60,
-      "speed": 110,
-      "specialAttack": 130,
-      "specialDefense": 75,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Gengar%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Lavender Town",
+      "areaId": 205
     }
   },
   {
@@ -131,19 +101,14 @@
     "description": "Its genetic code is irregular. It may mutate if it is exposed to radiation from elemental stones.",
     "age": 2,
     "isActive": true,
-    "birthdate": "2021-02-14",
+    "catchDate": "2024-01-05",
     "imageUrl": "https://img.pokemondb.net/artwork/eevee.jpg",
     "type": "Normal",
     "hobbies": ["Evolution", "Playing", "Exploring"],
-    "stats": {
-      "id": 107,
-      "hp": 55,
-      "attack": 55,
-      "defense": 50,
-      "speed": 55,
-      "specialAttack": 45,
-      "specialDefense": 65,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Eevee%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Celadon City",
+      "areaId": 206
     }
   },
   {
@@ -152,19 +117,14 @@
     "description": "It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.",
     "age": 10,
     "isActive": false,
-    "birthdate": "2013-04-20",
+    "catchDate": "2015-04-20",
     "imageUrl": "https://img.pokemondb.net/artwork/mewtwo.jpg",
     "type": "Psychic",
     "hobbies": ["Meditation", "Training", "Experiments"],
-    "stats": {
-      "id": 108,
-      "hp": 106,
-      "attack": 110,
-      "defense": 90,
-      "speed": 130,
-      "specialAttack": 154,
-      "specialDefense": 90,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Mewtwo%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Cerulean Cave",
+      "areaId": 207
     }
   },
   {
@@ -173,19 +133,14 @@
     "description": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.",
     "age": 9,
     "isActive": true,
-    "birthdate": "2014-08-08",
+    "catchDate": "2016-05-14",
     "imageUrl": "https://img.pokemondb.net/artwork/snorlax.jpg",
     "type": "Normal",
     "hobbies": ["Eating", "Sleeping", "Relaxing"],
-    "stats": {
-      "id": 109,
-      "hp": 160,
-      "attack": 110,
-      "defense": 65,
-      "speed": 30,
-      "specialAttack": 65,
-      "specialDefense": 110,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Snorlax%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Route 12",
+      "areaId": 208
     }
   },
   {
@@ -194,19 +149,14 @@
     "description": "It is said that this Pokémon constantly flies over the immense seas and rescues drowning people.",
     "age": 12,
     "isActive": true,
-    "birthdate": "2011-10-31",
+    "catchDate": "2012-03-27",
     "imageUrl": "https://img.pokemondb.net/artwork/dragonite.jpg",
     "type": "Dragon",
     "hobbies": ["Flying", "Rescuing", "Training"],
-    "stats": {
-      "id": 110,
-      "hp": 91,
-      "attack": 134,
-      "defense": 95,
-      "speed": 80,
-      "specialAttack": 100,
-      "specialDefense": 100,
-      "imageUrl": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/Pictures/Dragonite%20DALLE.webp"
+    "region": {
+      "regionName": "Kanto",
+      "area": "Route 45",
+      "areaId": 209
     }
   }
 ]
