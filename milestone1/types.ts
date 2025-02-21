@@ -1,25 +1,27 @@
 export interface Monsters {
-    id:           number;
-    name:         string;
-    description:  string;
-    image:        string;
+    id: number;
+    name: string;
+    description: string;
+    image: string;
     requirements: Requirements;
-    location:     Location;
-    card:         Card;
-    drops:        string[];
-    birthdate:    Date;
+    location: Location;
+    cardId: number;
+    card?: Card;
+    drops: string[];
+    birthdate: Date;
     hasQuestItem: boolean;
 }
 
 export interface Card {
-    name:         string;
-    effect:       string;
+    id: number;
+    name: string;
+    effect: string;
     effectValues: number;
 }
 
 export interface Location {
     world: World;
-    area:  string;
+    area: string;
 }
 
 export enum World {
@@ -29,5 +31,5 @@ export enum World {
 
 export interface Requirements {
     accuracy: number | string;
-    defence:  number | string;
+    defence: number | string;
 }
