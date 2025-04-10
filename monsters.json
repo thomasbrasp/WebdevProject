@@ -12,7 +12,6 @@
       "world": "Blunder Hills",
       "area": "Spore Meadows"
     },
-    "cardId": 1,
     "drops": [
       "Spore Cap (Monster Drop)",
       "Nomwich",
@@ -22,7 +21,13 @@
       "Bolt Cutters"
     ],
     "birthdate": "2012-02-13",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 1,
+      "name": "Green Mushroom Card",
+      "effect": "+ Base HP",
+      "effectValues": 12
+    }
   },
   {
     "id": 2,
@@ -37,12 +42,17 @@
       "world": "Blunder Hills",
       "area": "Birch Enclave"
     },
-    "cardId": 2,
     "drops": [
       "Red Spore Cap (Monster Drop)"
     ],
     "birthdate": "1996-07-21",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 2,
+      "name": "Red Mushroom Card",
+      "effect": "+ Base LUK",
+      "effectValues": 3
+    }
   },
   {
     "id": 3,
@@ -57,7 +67,6 @@
       "world": "Blunder Hills",
       "area": "Froggy Fields, Grandfrog's Backyard"
     },
-    "cardId": 3,
     "drops": [
       "Ketchup Bottle (Quest)",
       "Mustard Bottle (Quest)",
@@ -68,7 +77,13 @@
       "Dank Paypay Chest"
     ],
     "birthdate": "2005-02-17",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 3,
+      "name": "Frog Card",
+      "effect": "+ Base MP",
+      "effectValues": 10
+    }
   },
   {
     "id": 4,
@@ -83,7 +98,6 @@
       "world": "Blunder Hills",
       "area": "Valley Of The Beans"
     },
-    "cardId": 4,
     "drops": [
       "Bean Slices (Monster Drop)",
       "Cash Money (Talent)",
@@ -91,7 +105,13 @@
       "Bored Beanie"
     ],
     "birthdate": "2022-02-12",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 4,
+      "name": "Bored Bean Card",
+      "effect": "+ Base Damage",
+      "effectValues": 7
+    }
   },
   {
     "id": 5,
@@ -106,7 +126,6 @@
       "world": "Blunder Hills",
       "area": "Jungle Perimeter"
     },
-    "cardId": 5,
     "drops": [
       "Slime Sludge (Monster Drop)",
       "Cash Money (Talent)",
@@ -115,7 +134,13 @@
       "Dooble Goopi (Recipe)"
     ],
     "birthdate": "2023-10-23",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 5,
+      "name": "Slime Card",
+      "effect": "+ Base WIS",
+      "effectValues": 2
+    }
   },
   {
     "id": 6,
@@ -130,7 +155,6 @@
       "world": "Blunder Hills",
       "area": "Winding Willows"
     },
-    "cardId": 6,
     "drops": [
       "Strange Rock (Quest)",
       "Snake Skin (Monster Drop)",
@@ -140,7 +164,13 @@
       "Longsword Stamp"
     ],
     "birthdate": "1997-02-23",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 6,
+      "name": "Baby Boa Card",
+      "effect": "+ Move Spd",
+      "effectValues": 1
+    }
   },
   {
     "id": 7,
@@ -155,14 +185,19 @@
       "world": "Blunder Hills",
       "area": "Vegetable Patch"
     },
-    "cardId": 7,
     "drops": [
       "Carrot Cube (Monster Drop)",
       "Cheezy Pizza",
       "Carrot Launcher"
     ],
     "birthdate": "2006-12-17",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 7,
+      "name": "Carrotman Card",
+      "effect": "+ Base AGI",
+      "effectValues": 2
+    }
   },
   {
     "id": 8,
@@ -177,14 +212,19 @@
       "world": "Blunder Hills",
       "area": "Forest Outskirts"
     },
-    "cardId": 8,
     "drops": [
       "Glublin Ear (Monster Drop)",
       "Helmet Upgrade Stone I",
       "Fur Shirt (Recipe)"
     ],
     "birthdate": "2013-07-07",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 8,
+      "name": "Glublin Card",
+      "effect": "+% Total HP",
+      "effectValues": 2
+    }
   },
   {
     "id": 9,
@@ -199,7 +239,6 @@
       "world": "Blunder Hills",
       "area": "Encroaching Forest Villas"
     },
-    "cardId": 9,
     "drops": [
       "Dog Bone (Quest)",
       "Plank (Monster Drop)",
@@ -207,7 +246,13 @@
       "Planktop"
     ],
     "birthdate": "2015-01-22",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 9,
+      "name": "Wode Board Card",
+      "effect": "+ Base STR",
+      "effectValues": 2
+    }
   },
   {
     "id": 10,
@@ -222,7 +267,6 @@
       "world": "Blunder Hills",
       "area": "Tucked Away"
     },
-    "cardId": 10,
     "drops": [
       "Bullfrog Horn (Monster Drop)",
       "Average Life Potion",
@@ -231,7 +275,13 @@
       "Bronze Obol of Pop"
     ],
     "birthdate": "2018-02-24",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 10,
+      "name": "Gigafrog Card",
+      "effect": "+% Card Drop Chance",
+      "effectValues": 5
+    }
   },
   {
     "id": 11,
@@ -246,7 +296,6 @@
       "world": "Blunder Hills",
       "area": "Poopy Sewers"
     },
-    "cardId": 11,
     "drops": [
       "Corn Kernels (Monster Drop)",
       "Corporatube Sub (Quest)",
@@ -256,7 +305,13 @@
       "Golden Plop"
     ],
     "birthdate": "1998-06-14",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 11,
+      "name": "Poop Card",
+      "effect": "+% Crystal Mob Spawn Chance",
+      "effectValues": 10
+    }
   },
   {
     "id": 12,
@@ -271,7 +326,6 @@
       "world": "Blunder Hills",
       "area": "Rats Nest"
     },
-    "cardId": 12,
     "drops": [
       "Rats Tail (Monster Drop)",
       "Instablab Follower (Quest)",
@@ -279,7 +333,13 @@
       "Employment Statistics (Quest)"
     ],
     "birthdate": "2000-10-08",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 12,
+      "name": "Rat Card",
+      "effect": "+% Critical Chance",
+      "effectValues": 1
+    }
   },
   {
     "id": 13,
@@ -294,14 +354,19 @@
       "world": "Blunder Hills",
       "area": "The Base Of The Bark"
     },
-    "cardId": 13,
     "drops": [
       "Stick (Monster Drop)",
       "Fishing Overalls (Recipe)",
       "Woodular Circle"
     ],
     "birthdate": "2021-03-13",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 13,
+      "name": "Walking Stick Card",
+      "effect": "+ Base WIS",
+      "effectValues": 5
+    }
   },
   {
     "id": 14,
@@ -316,12 +381,17 @@
       "world": "Blunder Hills",
       "area": "Hollowed Trunk"
     },
-    "cardId": 14,
     "drops": [
       "Acorn (Monster Drop)"
     ],
     "birthdate": "1992-07-15",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 14,
+      "name": "Nutto Card",
+      "effect": "+% Money from Monsters",
+      "effectValues": 5
+    }
   },
   {
     "id": 15,
@@ -336,13 +406,18 @@
       "world": "Blunder Hills",
       "area": "Any Blunder Hills Area"
     },
-    "cardId": 15,
     "drops": [
       "Crystallin (Monster Drop)",
       "Quest Chungus (Talent)"
     ],
     "birthdate": "1998-11-12",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 15,
+      "name": "Crystal Carrot Card",
+      "effect": "+% Total Drop Rate",
+      "effectValues": 5
+    }
   },
   {
     "id": 16,
@@ -357,13 +432,18 @@
       "world": "Blunder Hills",
       "area": "Where the Branches End"
     },
-    "cardId": 16,
     "drops": [
       "Woodular Circle",
       "Red Frisbee (Monster Drop)"
     ],
     "birthdate": "2007-06-12",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 16,
+      "name": "Wood Mushroom Card",
+      "effect": "+% Total Accuracy",
+      "effectValues": 5
+    }
   },
   {
     "id": 17,
@@ -378,14 +458,19 @@
       "world": "Yum Yum Desert",
       "area": "Jar Bridge"
     },
-    "cardId": 17,
     "drops": [
       "Pocket Sand (Monster Drop)",
       "Yellow Headband",
       "Glass Shard"
     ],
     "birthdate": "2000-08-16",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 17,
+      "name": "Sandy Pot Card",
+      "effect": "+% EXP Conversion from Talent",
+      "effectValues": 12
+    }
   },
   {
     "id": 18,
@@ -400,7 +485,6 @@
       "world": "Yum Yum Desert",
       "area": "The Mimic Hole"
     },
-    "cardId": 18,
     "drops": [
       "Megalodon Tooth (Monster Drop)",
       "Casual Confidante (Quest)",
@@ -409,7 +493,13 @@
       "Defenders Dignity (Recipe)"
     ],
     "birthdate": "2001-09-12",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 18,
+      "name": "Mimic Card",
+      "effect": "+% Total Drop Rate",
+      "effectValues": 2
+    }
   },
   {
     "id": 19,
@@ -424,14 +514,19 @@
       "world": "Yum Yum Desert",
       "area": "Dessert Dunes"
     },
-    "cardId": 19,
     "drops": [
       "Crabby Cakey (Monster Drop)",
       "Nuget Cake",
       "Googley Eyes (Recipe)"
     ],
     "birthdate": "2021-09-23",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 19,
+      "name": "Crabcake Card",
+      "effect": "+% To not consume Food",
+      "effectValues": 5
+    }
   },
   {
     "id": 20,
@@ -446,14 +541,19 @@
       "world": "Yum Yum Desert",
       "area": "The Grandioso Canyon"
     },
-    "cardId": 20,
     "drops": [
       "Coconotnotto (Monster Drop)",
       "Triumphant Treason (Quest)",
       "Strung Bludgeon (Recipe)"
     ],
     "birthdate": "2024-09-06",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 20,
+      "name": "Mafioso Card",
+      "effect": "+ Base AGI",
+      "effectValues": 5
+    }
   },
   {
     "id": 21,
@@ -468,13 +568,18 @@
       "world": "Yum Yum Desert",
       "area": "Shifty Sandbox"
     },
-    "cardId": 21,
     "drops": [
       "Furled Flag (Monster Drop)",
       "Claiming Cashe (Quest)"
     ],
     "birthdate": "2014-05-05",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 21,
+      "name": "Sand Castle Card",
+      "effect": "+% Total Accuracy",
+      "effectValues": 4
+    }
   },
   {
     "id": 22,
@@ -489,12 +594,17 @@
       "world": "Yum Yum Desert",
       "area": "Pincer Plateau"
     },
-    "cardId": 22,
     "drops": [
       "Pincer Arm (Monster Drop)"
     ],
     "birthdate": "2013-05-22",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 22,
+      "name": "Pincermin Card",
+      "effect": "+ Weapon Power",
+      "effectValues": 1
+    }
   },
   {
     "id": 23,
@@ -509,12 +619,17 @@
       "world": "Yum Yum Desert",
       "area": "Slamabam Straightaway"
     },
-    "cardId": 23,
     "drops": [
       "Potato Remains (Monster Drop)"
     ],
     "birthdate": "2011-08-03",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 23,
+      "name": "Mashed Potato Card",
+      "effect": "+% Critical Damage",
+      "effectValues": 3
+    }
   },
   {
     "id": 24,
@@ -529,12 +644,17 @@
       "world": "Yum Yum Desert",
       "area": "The Ring"
     },
-    "cardId": 24,
     "drops": [
       "High Steaks (Monster Drop)"
     ],
     "birthdate": "2008-02-15",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 24,
+      "name": "Tyson Card",
+      "effect": "+ Base STR",
+      "effectValues": 5
+    }
   },
   {
     "id": 25,
@@ -549,7 +669,6 @@
       "world": "Yum Yum Desert",
       "area": "Up Up Down Down"
     },
-    "cardId": 25,
     "drops": [
       "Wakka Cherry (Monster Drop)",
       "Ghost",
@@ -557,7 +676,13 @@
       "Baseball Hat"
     ],
     "birthdate": "2000-08-24",
-    "hasQuestItem": true
+    "hasQuestItem": true,
+    "card": {
+      "id": 25,
+      "name": "Moonmoon Card",
+      "effect": "+% Monster EXP While Active",
+      "effectValues": 8
+    }
   },
   {
     "id": 26,
@@ -572,13 +697,18 @@
       "world": "Yum Yum Desert",
       "area": "Sands of Time"
     },
-    "cardId": 26,
     "drops": [
       "Singlecle (Monster Drop)",
       "Dootjat Eye (Recipe)"
     ],
     "birthdate": "2015-04-04",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 26,
+      "name": "Sand Giant Card",
+      "effect": "+% Minimum Damage",
+      "effectValues": 2
+    }
   },
   {
     "id": 27,
@@ -593,13 +723,18 @@
       "world": "Yum Yum Desert",
       "area": "Djonnuttown"
     },
-    "cardId": 27,
     "drops": [
       "Shrapshell (Monster Drop)",
       "Fuscismatia"
     ],
     "birthdate": "2014-07-22",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 27,
+      "name": "Snelbie Card",
+      "effect": "+% Card Drop Chance",
+      "effectValues": 8
+    }
   },
   {
     "id": 28,
@@ -614,10 +749,15 @@
       "world": "Yum Yum Desert",
       "area": "Sandstone Colosseum"
     },
-    "cardId": 28,
     "drops": [],
     "birthdate": "1990-11-15",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 28,
+      "name": "Dig Doug Card",
+      "effect": "+ Base LUK",
+      "effectValues": 6
+    }
   },
   {
     "id": 29,
@@ -632,12 +772,17 @@
       "world": "Yum Yum Desert",
       "area": "Any Yum Yum Desert Area"
     },
-    "cardId": 29,
     "drops": [
       "Crystallin (Monster Drop)",
       "Quest Chungus (Talent)"
     ],
     "birthdate": "1995-03-21",
-    "hasQuestItem": false
+    "hasQuestItem": false,
+    "card": {
+      "id": 29,
+      "name": "Crystal Crabal Card",
+      "effect": "+% EXP from monsters",
+      "effectValues": 2
+    }
   }
 ]
