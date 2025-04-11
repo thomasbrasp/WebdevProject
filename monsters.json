@@ -22,12 +22,7 @@
     ],
     "birthdate": "2012-02-13",
     "hasQuestItem": false,
-    "card": {
-      "id": 1,
-      "name": "Green Mushroom Card",
-      "effect": "+ Base HP",
-      "effectValues": 12
-    }
+    "cardId": 1
   },
   {
     "id": 2,
@@ -47,12 +42,7 @@
     ],
     "birthdate": "1996-07-21",
     "hasQuestItem": false,
-    "card": {
-      "id": 2,
-      "name": "Red Mushroom Card",
-      "effect": "+ Base LUK",
-      "effectValues": 3
-    }
+    "cardId": 2
   },
   {
     "id": 3,
@@ -78,12 +68,7 @@
     ],
     "birthdate": "2005-02-17",
     "hasQuestItem": true,
-    "card": {
-      "id": 3,
-      "name": "Frog Card",
-      "effect": "+ Base MP",
-      "effectValues": 10
-    }
+    "cardId": 3
   },
   {
     "id": 4,
@@ -106,12 +91,7 @@
     ],
     "birthdate": "2022-02-12",
     "hasQuestItem": false,
-    "card": {
-      "id": 4,
-      "name": "Bored Bean Card",
-      "effect": "+ Base Damage",
-      "effectValues": 7
-    }
+    "cardId": 4
   },
   {
     "id": 5,
@@ -135,12 +115,7 @@
     ],
     "birthdate": "2023-10-23",
     "hasQuestItem": false,
-    "card": {
-      "id": 5,
-      "name": "Slime Card",
-      "effect": "+ Base WIS",
-      "effectValues": 2
-    }
+    "cardId": 5
   },
   {
     "id": 6,
@@ -165,12 +140,7 @@
     ],
     "birthdate": "1997-02-23",
     "hasQuestItem": true,
-    "card": {
-      "id": 6,
-      "name": "Baby Boa Card",
-      "effect": "+ Move Spd",
-      "effectValues": 1
-    }
+    "cardId": 6
   },
   {
     "id": 7,
@@ -192,12 +162,7 @@
     ],
     "birthdate": "2006-12-17",
     "hasQuestItem": false,
-    "card": {
-      "id": 7,
-      "name": "Carrotman Card",
-      "effect": "+ Base AGI",
-      "effectValues": 2
-    }
+    "cardId": 7
   },
   {
     "id": 8,
@@ -219,12 +184,7 @@
     ],
     "birthdate": "2013-07-07",
     "hasQuestItem": false,
-    "card": {
-      "id": 8,
-      "name": "Glublin Card",
-      "effect": "+% Total HP",
-      "effectValues": 2
-    }
+    "cardId": 8
   },
   {
     "id": 9,
@@ -247,12 +207,7 @@
     ],
     "birthdate": "2015-01-22",
     "hasQuestItem": true,
-    "card": {
-      "id": 9,
-      "name": "Wode Board Card",
-      "effect": "+ Base STR",
-      "effectValues": 2
-    }
+    "cardId": 9
   },
   {
     "id": 10,
@@ -276,12 +231,7 @@
     ],
     "birthdate": "2018-02-24",
     "hasQuestItem": true,
-    "card": {
-      "id": 10,
-      "name": "Gigafrog Card",
-      "effect": "+% Card Drop Chance",
-      "effectValues": 5
-    }
+    "cardId": 10
   },
   {
     "id": 11,
@@ -306,12 +256,7 @@
     ],
     "birthdate": "1998-06-14",
     "hasQuestItem": true,
-    "card": {
-      "id": 11,
-      "name": "Poop Card",
-      "effect": "+% Crystal Mob Spawn Chance",
-      "effectValues": 10
-    }
+    "cardId": 11
   },
   {
     "id": 12,
@@ -334,12 +279,7 @@
     ],
     "birthdate": "2000-10-08",
     "hasQuestItem": true,
-    "card": {
-      "id": 12,
-      "name": "Rat Card",
-      "effect": "+% Critical Chance",
-      "effectValues": 1
-    }
+    "cardId": 12
   },
   {
     "id": 13,
@@ -361,12 +301,7 @@
     ],
     "birthdate": "2021-03-13",
     "hasQuestItem": false,
-    "card": {
-      "id": 13,
-      "name": "Walking Stick Card",
-      "effect": "+ Base WIS",
-      "effectValues": 5
-    }
+    "cardId": 13
   },
   {
     "id": 14,
@@ -386,12 +321,7 @@
     ],
     "birthdate": "1992-07-15",
     "hasQuestItem": false,
-    "card": {
-      "id": 14,
-      "name": "Nutto Card",
-      "effect": "+% Money from Monsters",
-      "effectValues": 5
-    }
+    "cardId": 14
   },
   {
     "id": 15,
@@ -412,12 +342,7 @@
     ],
     "birthdate": "1998-11-12",
     "hasQuestItem": false,
-    "card": {
-      "id": 15,
-      "name": "Crystal Carrot Card",
-      "effect": "+% Total Drop Rate",
-      "effectValues": 5
-    }
+    "cardId": 15
   },
   {
     "id": 16,
@@ -438,12 +363,7 @@
     ],
     "birthdate": "2007-06-12",
     "hasQuestItem": false,
-    "card": {
-      "id": 16,
-      "name": "Wood Mushroom Card",
-      "effect": "+% Total Accuracy",
-      "effectValues": 5
-    }
+    "cardId": 16
   },
   {
     "id": 17,
@@ -465,12 +385,7 @@
     ],
     "birthdate": "2000-08-16",
     "hasQuestItem": false,
-    "card": {
-      "id": 17,
-      "name": "Sandy Pot Card",
-      "effect": "+% EXP Conversion from Talent",
-      "effectValues": 12
-    }
+    "cardId": 17
   },
   {
     "id": 18,
@@ -494,12 +409,7 @@
     ],
     "birthdate": "2001-09-12",
     "hasQuestItem": true,
-    "card": {
-      "id": 18,
-      "name": "Mimic Card",
-      "effect": "+% Total Drop Rate",
-      "effectValues": 2
-    }
+    "cardId": 18
   },
   {
     "id": 19,
@@ -521,12 +431,7 @@
     ],
     "birthdate": "2021-09-23",
     "hasQuestItem": false,
-    "card": {
-      "id": 19,
-      "name": "Crabcake Card",
-      "effect": "+% To not consume Food",
-      "effectValues": 5
-    }
+    "cardId": 19
   },
   {
     "id": 20,
@@ -548,12 +453,7 @@
     ],
     "birthdate": "2024-09-06",
     "hasQuestItem": true,
-    "card": {
-      "id": 20,
-      "name": "Mafioso Card",
-      "effect": "+ Base AGI",
-      "effectValues": 5
-    }
+    "cardId": 20
   },
   {
     "id": 21,
@@ -574,12 +474,7 @@
     ],
     "birthdate": "2014-05-05",
     "hasQuestItem": true,
-    "card": {
-      "id": 21,
-      "name": "Sand Castle Card",
-      "effect": "+% Total Accuracy",
-      "effectValues": 4
-    }
+    "cardId": 21
   },
   {
     "id": 22,
@@ -599,12 +494,7 @@
     ],
     "birthdate": "2013-05-22",
     "hasQuestItem": false,
-    "card": {
-      "id": 22,
-      "name": "Pincermin Card",
-      "effect": "+ Weapon Power",
-      "effectValues": 1
-    }
+    "cardId": 22
   },
   {
     "id": 23,
@@ -624,12 +514,7 @@
     ],
     "birthdate": "2011-08-03",
     "hasQuestItem": false,
-    "card": {
-      "id": 23,
-      "name": "Mashed Potato Card",
-      "effect": "+% Critical Damage",
-      "effectValues": 3
-    }
+    "cardId": 23
   },
   {
     "id": 24,
@@ -649,12 +534,7 @@
     ],
     "birthdate": "2008-02-15",
     "hasQuestItem": false,
-    "card": {
-      "id": 24,
-      "name": "Tyson Card",
-      "effect": "+ Base STR",
-      "effectValues": 5
-    }
+    "cardId": 24
   },
   {
     "id": 25,
@@ -677,12 +557,7 @@
     ],
     "birthdate": "2000-08-24",
     "hasQuestItem": true,
-    "card": {
-      "id": 25,
-      "name": "Moonmoon Card",
-      "effect": "+% Monster EXP While Active",
-      "effectValues": 8
-    }
+    "cardId": 25
   },
   {
     "id": 26,
@@ -703,12 +578,7 @@
     ],
     "birthdate": "2015-04-04",
     "hasQuestItem": false,
-    "card": {
-      "id": 26,
-      "name": "Sand Giant Card",
-      "effect": "+% Minimum Damage",
-      "effectValues": 2
-    }
+    "cardId": 26
   },
   {
     "id": 27,
@@ -729,12 +599,7 @@
     ],
     "birthdate": "2014-07-22",
     "hasQuestItem": false,
-    "card": {
-      "id": 27,
-      "name": "Snelbie Card",
-      "effect": "+% Card Drop Chance",
-      "effectValues": 8
-    }
+    "cardId": 27
   },
   {
     "id": 28,
@@ -752,12 +617,7 @@
     "drops": [],
     "birthdate": "1990-11-15",
     "hasQuestItem": false,
-    "card": {
-      "id": 28,
-      "name": "Dig Doug Card",
-      "effect": "+ Base LUK",
-      "effectValues": 6
-    }
+    "cardId": 28
   },
   {
     "id": 29,
@@ -778,11 +638,6 @@
     ],
     "birthdate": "1995-03-21",
     "hasQuestItem": false,
-    "card": {
-      "id": 29,
-      "name": "Crystal Crabal Card",
-      "effect": "+% EXP from monsters",
-      "effectValues": 2
-    }
+    "cardId": 29
   }
 ]
