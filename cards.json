@@ -3,174 +3,174 @@
     "id": 1,
     "name": "Green Mushroom Card",
     "effect": "+ Base HP",
-    "effectValues": 12
+    "effectValue": 12
   },
   {
     "id": 2,
     "name": "Red Mushroom Card",
     "effect": "+ Base LUK",
-    "effectValues": 3
+    "effectValue": 3
   },
   {
     "id": 3,
     "name": "Frog Card",
     "effect": "+ Base MP",
-    "effectValues": 10
+    "effectValue": 10
   },
   {
     "id": 4,
     "name": "Bored Bean Card",
     "effect": "+ Base Damage",
-    "effectValues": 7
+    "effectValue": 7
   },
   {
     "id": 5,
     "name": "Slime Card",
     "effect": "+ Base WIS",
-    "effectValues": 2
+    "effectValue": 2
   },
   {
     "id": 6,
     "name": "Baby Boa Card",
     "effect": "+ Move Spd",
-    "effectValues": 1
+    "effectValue": 1
   },
   {
     "id": 7,
     "name": "Carrotman Card",
     "effect": "+ Base AGI",
-    "effectValues": 2
+    "effectValue": 2
   },
   {
     "id": 8,
     "name": "Glublin Card",
     "effect": "+% Total HP",
-    "effectValues": 2
+    "effectValue": 2
   },
   {
     "id": 9,
     "name": "Wode Board Card",
     "effect": "+ Base STR",
-    "effectValues": 2
+    "effectValue": 2
   },
   {
     "id": 10,
     "name": "Gigafrog Card",
     "effect": "+% Card Drop Chance",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 11,
     "name": "Poop Card",
     "effect": "+% Crystal Mob Spawn Chance",
-    "effectValues": 10
+    "effectValue": 10
   },
   {
     "id": 12,
     "name": "Rat Card",
     "effect": "+% Critical Chance",
-    "effectValues": 1
+    "effectValue": 1
   },
   {
     "id": 13,
     "name": "Walking Stick Card",
     "effect": "+ Base WIS",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 14,
     "name": "Nutto Card",
     "effect": "+% Money from Monsters",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 15,
     "name": "Crystal Carrot Card",
     "effect": "+% Total Drop Rate",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 16,
     "name": "Wood Mushroom Card",
     "effect": "+% Total Accuracy",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 17,
     "name": "Sandy Pot Card",
     "effect": "+% EXP Conversion from Talent",
-    "effectValues": 12
+    "effectValue": 12
   },
   {
     "id": 18,
     "name": "Mimic Card",
     "effect": "+% Total Drop Rate",
-    "effectValues": 2
+    "effectValue": 2
   },
   {
     "id": 19,
     "name": "Crabcake Card",
     "effect": "+% To not consume Food",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 20,
     "name": "Mafioso Card",
     "effect": "+ Base AGI",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 21,
     "name": "Sand Castle Card",
     "effect": "+% Total Accuracy",
-    "effectValues": 4
+    "effectValue": 4
   },
   {
     "id": 22,
     "name": "Pincermin Card",
     "effect": "+ Weapon Power",
-    "effectValues": 1
+    "effectValue": 1
   },
   {
     "id": 23,
     "name": "Mashed Potato Card",
     "effect": "+% Critical Damage",
-    "effectValues": 3
+    "effectValue": 3
   },
   {
     "id": 24,
     "name": "Tyson Card",
     "effect": "+ Base STR",
-    "effectValues": 5
+    "effectValue": 5
   },
   {
     "id": 25,
     "name": "Moonmoon Card",
     "effect": "+% Monster EXP While Active",
-    "effectValues": 8
+    "effectValue": 8
   },
   {
     "id": 26,
     "name": "Sand Giant Card",
     "effect": "+% Minimum Damage",
-    "effectValues": 2
+    "effectValue": 2
   },
   {
     "id": 27,
     "name": "Snelbie Card",
     "effect": "+% Card Drop Chance",
-    "effectValues": 8
+    "effectValue": 8
   },
   {
     "id": 28,
     "name": "Dig Doug Card",
     "effect": "+ Base LUK",
-    "effectValues": 6
+    "effectValue": 6
   },
   {
     "id": 29,
     "name": "Crystal Crabal Card",
     "effect": "+% EXP from monsters",
-    "effectValues": 2
+    "effectValue": 2
   }
 ]
