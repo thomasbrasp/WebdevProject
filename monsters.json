@@ -614,7 +614,7 @@
       "world": "Yum Yum Desert",
       "area": "Sandstone Colosseum"
     },
-    "drops": [],
+    "drops": ["Dig Doug Deep For Nothing Much"],
     "birthdate": "1990-11-15",
     "hasQuestItem": false,
     "cardId": 28
@@ -660,7 +660,7 @@
   },
   {
     "id": 31,
-    "name": "Frost_Flake",
+    "name": "Frost Flake",
     "description": "A delicate yet deadly snow sprite that drifts through icy winds. Its touch freezes foes solid, turning them into glittering statues before shattering them into a million frosty pieces.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/frostflake.png",
     "requirements": {
@@ -678,7 +678,7 @@
   },
   {
     "id": 32,
-    "name": "Sir_Stache",
+    "name": "Sir Stache",
     "description": "A dapper, mustachioed gentleman… if gentlemen had six arms and a habit of pickpocketing heroes. He tips his hat before swiping your loot, leaving you both impressed and infuriated.",
     "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sirstache.png",
     "requirements": {
