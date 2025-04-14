@@ -1,0 +1,289 @@
+
+  {
+    "id": 30,
+    "name": "Sheepie",
+    "description": "A fluffy, docile creature that loves to graze on idle dreams. Don’t let its cute appearance fool you—it’s got a stubborn streak and will ram anyone who interrupts its nap time!",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sheepie.png",
+    "requirements": {
+      "accuracy": 375,
+      "defence": 158.98
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Steep Sheep Ledge"
+    },
+    "drops": ["Floof Ploof (Monster Drop)", "Box Statue", "Twin Ores Stamp"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 30
+  },
+  {
+    "id": 31,
+    "name": "Frost_Flake",
+    "description": "A delicate yet deadly snow sprite that drifts through icy winds. Its touch freezes foes solid, turning them into glittering statues before shattering them into a million frosty pieces.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/frostflake.png",
+    "requirements": {
+      "accuracy": 495,
+      "defence": 177.1
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Snowfield Outskirts"
+    },
+    "drops": ["Melty Cube (Monster Drop)", "Duplogs Stamp", "Yellow Snowflake"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 31
+  },
+  {
+    "id": 32,
+    "name": "Sir_Stache",
+    "description": "A dapper, mustachioed gentleman… if gentlemen had six arms and a habit of pickpocketing heroes. He tips his hat before swiping your loot, leaving you both impressed and infuriated.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/sirstache.png",
+    "requirements": {
+      "accuracy": 540,
+      "defence": 207.65
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "The Stache Split"
+    },
+    "drops": ["Moustache Comb (Monster Drop)", "Decent Speed Potion", "Twosoul Statue"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 32
+  },
+  {
+    "id": 33,
+    "name": "Bloque",
+    "description": "A living block of ice with a grumpy demeanor. It slams into enemies like a frozen freight train, leaving behind a trail of frostbite and shattered dignity.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/bloque.png",
+    "requirements": {
+      "accuracy": 637,
+      "defence": 593.5
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Refrigeration Station"
+    },
+    "drops": ["Sticky Stick (Monster Drop)", "Decent Mana Potion", "Seesaw Statue"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 33
+  },
+  {
+    "id": 34,
+    "name": "Mamooth",
+    "description": "A woolly, oversized beast with tusks made of solid frost. It stomps through snowdrifts, uncaring of what—or who—gets trampled underfoot.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/mamooth.png",
+    "requirements": {
+      "accuracy": 825,
+      "defence": 695.37
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Mamooooth Mountain"
+    },
+    "drops": ["Shovel (Quest)", "Mamooth Tusk (Monster Drop)", "Ice Age 3", "Mamooth Hide Bag"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": true,
+    "cardId": 34
+  },
+  {
+    "id": 35,
+    "name": "Snowman",
+    "description": "A cheerful yet sinister frozen figure that rolls into battle, growing larger with every enemy it bowls over. Its smile never fades, even as it crushes adventurers under its icy bulk.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/snowman.png",
+    "requirements": {
+      "accuracy": 1125,
+      "defence": 834.89
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Rollin Tundra"
+    },
+    "drops": ["Shovel (Quest)", "Snow Ball (Monster Drop)", "Mountain Bread", "Cool Diggy Tool Stamp"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": true,
+    "cardId": 35
+  },
+  {
+    "id": 36,
+    "name": "Penguin",
+    "description": "A tuxedoed troublemaker that slides across the ice at high speeds, pecking at foes with a beak sharper than a dagger. It may look adorable, but it fights with the fury of a blizzard.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/penguin.png",
+    "requirements": {
+      "accuracy": 1425,
+      "defence": 973.57
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Signature Slopes"
+    },
+    "drops": ["Pen (Monster Drop)", "Signed Contract (Quest)", "Box Statue"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": true,
+    "cardId": 36
+  },
+  {
+    "id": 37,
+    "name": "Thermister",
+    "description": "A living contradiction—a fiery core wrapped in an icy shell. It explodes when threatened, showering enemies in both flames and frostbite.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/thermister.png",
+    "requirements": {
+      "accuracy": 1650,
+      "defence": 1161.15
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Thermonuclear Climb"
+    },
+    "drops": ["Shovel (Quest)", "Cracked Glass (Monster Drop)", "Swag Swingy Tool Stamp"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": true,
+    "cardId": 37
+  },
+  {
+    "id": 38,
+    "name": "Quenchie",
+    "description": "A slushy, liquid-like monster that thirsts for adventure (and occasionally heroes). It engulfs its prey in a freezing, sugary trap before slurping them up.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/quenchie.png",
+    "requirements": {
+      "accuracy": 1875,
+      "defence": 1408.37
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Waterlogged Entrance"
+    },
+    "drops": ["Sippy Straw (Monster Drop)", "Twosoul Statue"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 38
+  },
+  {
+    "id": 39,
+    "name": "Cryosnake",
+    "description": "A serpent made of living ice, slithering through the snow with hypnotic grace. Its bite doesn’t just poison—it flash-freezes victims from the inside out.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/cryosnake.png",
+    "requirements": {
+      "accuracy": 2250,
+      "defence": 1743.06
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Cryo Catacombs"
+    },
+    "drops": ["Cryosnake Skin (Monster Drop)", "Seesaw Statue"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 39
+  },
+  {
+    "id": 40,
+    "name": "Bop_Box",
+    "description": "A jukebox with legs, blasting frosty soundwaves that freeze enemies in place. The beat is catchy, but the cold? Deadly.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/bopbox.png",
+    "requirements": {
+      "accuracy": 2700,
+      "defence": 2072.08
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Overpass of Sound"
+    },
+    "drops": ["Audio Cord (Monster Drop)", "Yeti Ham"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 40
+  },
+  {
+    "id": 41,
+    "name": "Neyeptune",
+    "description": "A cyclopean sea-king exiled to the frozen wastes. His single eye glows with ancient power, and his trident strikes with the force of a glacier calving.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/neyeptune.png",
+    "requirements": {
+      "accuracy": 3600,
+      "defence": 2424.95
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Crystal Basecamp"
+    },
+    "drops": ["Contact Lense (Monster Drop)", "Black Lense"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 41
+  },
+  {
+    "id": 42,
+    "name": "Dedotated Ram",
+    "description": "A spectral ram with glowing blue flames for wool. It charges through enemies like a poltergeist, leaving behind only frostbitten regrets.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/dedotatedram.png",
+    "requirements": {
+      "accuracy": 150,
+      "defence": 213.8
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Wam Wonderland"
+    },
+    "drops": ["Ram Wool (Monster Drop)", "Neutron Ice Ring", "Grey Beret"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 42
+  },
+  {
+    "id": 43,
+    "name": "Xylobone",
+    "description": "A skeletal musician whose ribs double as a xylophone. Every step it takes plays a chilling melody that saps the warmth from its foes.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/xylobone.png",
+    "requirements": {
+      "accuracy": 2250,
+      "defence": 3563.92
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Hell Hath Frozen Over"
+    },
+    "drops": ["Absolutely Nothing"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 43
+  },
+  {
+    "id": 44,
+    "name": "Bloodbone",
+    "description": "A crimson-frozen skeleton that thrives in the coldest depths. Its bones are stained with the frozen blood of past victims, and it hungers for more.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/bloodbone.png",
+    "requirements": {
+      "accuracy": 150,
+      "defence": 563.92
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Chillsnap Colosseum"
+    },
+    "drops": ["Equinox Mirror", "Blood Bone (Monster Drop)"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 44
+  },
+  {
+    "id": 45,
+    "name": "Crystal_Cattle",
+    "description": "Giant, bovine creatures with hides made of shimmering ice crystals. They stampede in unison, turning the battlefield into a glittering, deadly ice field.",
+    "image": "https://raw.githubusercontent.com/thomasbrasp/WebdevProject/refs/heads/main/pictures/crystalcattle.png",
+    "requirements": {
+      "accuracy": "Variable",
+      "defence": "Variable"
+    },
+    "location": {
+      "world": "Frostbite Tundra",
+      "area": "Any Frostbite Tundra Area"
+    },
+    "drops": ["Crystallin (Monster Drop)", "Quest Chungus (Talent)"],
+    "birthdate": "2020-03-17",
+    "hasQuestItem": false,
+    "cardId": 45
+  },
