@@ -3,175 +3,586 @@
     "id": 1,
     "name": "Green Mushroom Card",
     "effect": "+ Base HP",
-    "effectValues": [ 12, 24, 36, 48, 60, 72 ]
+    "effectValues": [
+      12,
+      24,
+      36,
+      48,
+      60,
+      72
+    ]
   },
   {
     "id": 2,
     "name": "Red Mushroom Card",
     "effect": "+ Base LUK",
-    "effectValues": [ 3, 6, 9, 12, 15, 18 ]
+    "effectValues": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ]
   },
   {
     "id": 3,
     "name": "Frog Card",
     "effect": "+ Base MP",
-    "effectValues": [ 10, 20, 30, 40, 50, 60 ]
+    "effectValues": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60
+    ]
   },
   {
     "id": 4,
     "name": "Bored Bean Card",
     "effect": "+ Base Damage",
-    "effectValues": [ 7, 14, 21, 28, 35, 42 ]
+    "effectValues": [
+      7,
+      14,
+      21,
+      28,
+      35,
+      42
+    ]
   },
   {
     "id": 5,
     "name": "Slime Card",
     "effect": "+ Base WIS",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
   },
   {
     "id": 6,
     "name": "Baby Boa Card",
     "effect": "+ Move Spd",
-    "effectValues": [ 1, 2, 3, 4, 5, 6 ]
+    "effectValues": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
   {
     "id": 7,
     "name": "Carrotman Card",
     "effect": "+ Base AGI",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
   },
   {
     "id": 8,
     "name": "Glublin Card",
     "effect": "+% Total HP",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
   },
   {
     "id": 9,
     "name": "Wode Board Card",
     "effect": "+ Base STR",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
   },
   {
     "id": 10,
     "name": "Gigafrog Card",
     "effect": "+% Card Drop Chance",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 11,
     "name": "Poop Card",
     "effect": "+% Crystal Mob Spawn Chance",
-    "effectValues": [ 10, 20, 30, 40, 50, 60 ]
+    "effectValues": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60
+    ]
   },
   {
     "id": 12,
     "name": "Rat Card",
     "effect": "+% Critical Chance",
-    "effectValues": [ 1, 2, 3, 4, 5, 6 ]
+    "effectValues": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
   {
     "id": 13,
     "name": "Walking Stick Card",
     "effect": "+ Base WIS",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 14,
     "name": "Nutto Card",
     "effect": "+% Money from Monsters",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 15,
     "name": "Crystal Carrot Card",
     "effect": "+% Total Drop Rate",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 16,
     "name": "Wood Mushroom Card",
     "effect": "+% Total Accuracy",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 17,
     "name": "Sandy Pot Card",
     "effect": "+% EXP Conversion from Talent",
-    "effectValues": [ 12, 24, 36, 48, 60, 72 ]
+    "effectValues": [
+      12,
+      24,
+      36,
+      48,
+      60,
+      72
+    ]
   },
   {
     "id": 18,
     "name": "Mimic Card",
     "effect": "+% Total Drop Rate",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
   },
   {
     "id": 19,
     "name": "Crabcake Card",
     "effect": "+% To not consume Food",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 20,
     "name": "Mafioso Card",
     "effect": "+ Base AGI",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 21,
     "name": "Sand Castle Card",
     "effect": "+% Total Accuracy",
-    "effectValues": [ 4, 8, 12, 16, 20, 24 ]
+    "effectValues": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24
+    ]
   },
   {
     "id": 22,
     "name": "Pincermin Card",
     "effect": "+ Weapon Power",
-    "effectValues": [ 1, 2, 3, 4, 5, 6 ]
+    "effectValues": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
   },
   {
     "id": 23,
     "name": "Mashed Potato Card",
     "effect": "+% Critical Damage",
-    "effectValues": [ 3, 6, 9, 12, 15, 18 ]
+    "effectValues": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ]
   },
   {
     "id": 24,
     "name": "Tyson Card",
     "effect": "+ Base STR",
-    "effectValues": [ 5, 10, 15, 20, 25, 30 ]
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
   },
   {
     "id": 25,
     "name": "Moonmoon Card",
     "effect": "+% Monster EXP While Active",
-    "effectValues": [ 8, 16, 24, 32, 40, 48 ]
+    "effectValues": [
+      8,
+      16,
+      24,
+      32,
+      40,
+      48
+    ]
   },
   {
     "id": 26,
     "name": "Sand Giant Card",
     "effect": "+% Minimum Damage",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
   },
   {
     "id": 27,
     "name": "Snelbie Card",
     "effect": "+% Card Drop Chance",
-    "effectValues": [ 8, 16, 24, 32, 40, 48 ]
+    "effectValues": [
+      8,
+      16,
+      24,
+      32,
+      40,
+      48
+    ]
   },
   {
     "id": 28,
     "name": "Dig Doug Card",
     "effect": "+ Base LUK",
-    "effectValues": [ 6, 12, 18, 24, 30, 36 ]
+    "effectValues": [
+      6,
+      12,
+      18,
+      24,
+      30,
+      36
+    ]
   },
   {
     "id": 29,
     "name": "Crystal Crabal Card",
     "effect": "+% EXP from monsters",
-    "effectValues": [ 2, 4, 6, 8, 10, 12 ]
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Sheepie Card",
+    "effect": "+% Defence from Equipment",
+    "effectValues": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Frost Flake Card",
+    "effect": "+ Base STR",
+    "effectValues": [
+      7,
+      14,
+      21,
+      28,
+      35,
+      42
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Sir Stache Card",
+    "effect": "+% Card Drop Chance",
+    "effectValues": [
+      9,
+      18,
+      27,
+      36,
+      45,
+      54
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Bloque Card",
+    "effect": ",+ Base AGI",
+    "effectValues": [
+      7,
+      14,
+      21,
+      28,
+      35,
+      42
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Mamooth Card",
+    "effect": ",+96 Total HP",
+    "effectValues": [
+      3.5,
+      7,
+      10.5,
+      14,
+      17.5,
+      21
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Snowman Card",
+    "effect": "+% Total Damage",
+    "effectValues": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Penguin Card",
+    "effect": ",+ Base",
+    "effectValues": [
+      7,
+      14,
+      21,
+      28,
+      35,
+      42
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Thermister Card",
+    "effect": "+% Critical Damage",
+    "effectValues": [
+      4,
+      8,
+      12,
+      16,
+      20,
+      24
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Quenchie Card",
+    "effect": ",+ Base LUK",
+    "effectValues": [
+      7,
+      14,
+      21,
+      28,
+      35,
+      42
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Cryosnake Card",
+    "effect": "+% MP regen rate",
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Bop Box Card",
+    "effect": "+% Total Drop Rate",
+    "effectValues": [
+      3.5,
+      7,
+      10.5,
+      14,
+      17.5,
+      21
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Neyeptune Card",
+    "effect": "+% Total Accuracy",
+    "effectValues": [
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dedotated Ram Card",
+    "effect": ",+ Weapon Power",
+    "effectValues": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Xylobone Card",
+    "effect": "+% Critical Chance",
+    "effectValues": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Bloodbone Card",
+    "effect": "+% Total Damage",
+    "effectValues": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Crystal Cattle Card",
+    "effect": "+% EXP from monsters",
+    "effectValues": [
+      3,
+      6,
+      9,
+      12,
+      15,
+      18
+    ]
   }
 ]
 
