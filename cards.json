@@ -418,7 +418,7 @@
   {
     "id": 33,
     "name": "Bloque Card",
-    "effect": ",+ Base AGI",
+    "effect": "+ Base AGI",
     "effectValues": [
       7,
       14,
@@ -431,7 +431,7 @@
   {
     "id": 34,
     "name": "Mamooth Card",
-    "effect": ",+96 Total HP",
+    "effect": "+ Total HP",
     "effectValues": [
       3.5,
       7,
@@ -457,7 +457,7 @@
   {
     "id": 36,
     "name": "Penguin Card",
-    "effect": ",+ Base",
+    "effect": "+ Base",
     "effectValues": [
       7,
       14,
@@ -483,7 +483,7 @@
   {
     "id": 38,
     "name": "Quenchie Card",
-    "effect": ",+ Base LUK",
+    "effect": "+ Base LUK",
     "effectValues": [
       7,
       14,
@@ -535,7 +535,7 @@
   {
     "id": 42,
     "name": "Dedotated Ram Card",
-    "effect": ",+ Weapon Power",
+    "effect": "+ Weapon Power",
     "effectValues": [
       2,
       4,
