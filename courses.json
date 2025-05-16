@@ -600,5 +600,33 @@
     "start": "2025-05-28T14:00:00",
     "teacher": "Barbara Lettany",
     "title": "WPL exploratie & project"
+  },
+  {
+    "title": "OO programmeren",
+    "location": "ELL.03.13",
+    "teacher": "Vincent Van Camp",
+    "start": "2025-05-27T13:00:00",
+    "end": "2025-05-27T16:00:00"
+  },
+  {
+    "title": "Cloudsystemen",
+    "location": "ELL.03.06",
+    "teacher": "Glenn Van Loon",
+    "start": "2025-05-27T10:00:00",
+    "end": "2025-05-27T12:00:00"
+  },
+  {
+    "title": "Webontwikkeling",
+    "location": "ELL.03.06",
+    "teacher": "Andie Similon",
+    "start": "2025-05-26T14:00:00",
+    "end": "2025-05-26T17:00:00"
+  },
+  {
+    "title": "Webontwikkeling",
+    "location": "ELL.03.07",
+    "teacher": "Andie Similon",
+    "start": "2025-05-28T10:00:00",
+    "end": "2025-05-28T13:00:00"
   }
 ]
