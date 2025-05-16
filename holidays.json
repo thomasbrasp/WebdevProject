@@ -1,0 +1,23 @@
+[
+  {
+    "id": 438,
+    "name": "Krokus",
+    "start": "2025-03-03T00:00:00",
+    "end": "2025-03-09T23:59:59",
+    "bookable": false
+  },
+  {
+    "id": 441,
+    "name": "Pasen",
+    "start": "2025-04-07T00:00:00",
+    "end": "2025-04-20T23:59:59",
+    "bookable": false
+  },
+  {
+    "id": 444,
+    "name": "Zomer",
+    "start": "2025-06-30T00:00:00",
+    "end": "2025-08-17T23:59:59",
+    "bookable": false
+  }
+]
